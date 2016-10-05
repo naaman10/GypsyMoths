@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Will"
+date:   2016-10-03 15:08:10 -0500
+img: img/portfolio/game.png
+modalID: modalWill
+category: TheBand
+---
+*Vocals, Guitar & Bass*
+
+Will is a supremely talented vocalist and bass player who can also turn his hand to the acoustic guitar. He studied at the University of Hull and has a degree in Musical Theatre which is evident in his performance. Will has been a performing musician for over 10 years and has racked up countless performances all over the UK.

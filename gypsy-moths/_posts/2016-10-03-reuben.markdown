@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Reuben"
+date:   2016-10-03 15:08:10 -0500
+img: img/portfolio/safe.png
+modalID: Reuben
+category: TheBand
+---
+*Vocals, Keys & Percussion*
+
+Reuben is a vastly talented and experienced musician. Degree qualified, Reuben has performed primarily as a drummer in an array of musical genres at the very highest level. A talented vocal harmoniser he will be predominantly tinkling the ivories with Gypsy Moths as well as head percussionist due to his excellent versatility.

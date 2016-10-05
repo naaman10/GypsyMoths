@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Joe"
+date:   2016-10-03 15:08:10 -0500
+img: img/portfolio/joe.jpg
+modalID: Joe
+category: TheBand
+---
+*Vocals, Guitar, Bass, Percussion*
+
+A true seasoned musician, Joe brings vocal qualities we mere mortals can only dream of. He's also not half bad on the guitar and has been playing since the age of 11. Having performed in several successful function/cover bands over the last 15 years, Joe is now taking flight as the main man, guitarist and vocalist in Gypsy Moths.

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gypsy Moths</title>
+    <description></description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 05 Oct 2016 08:12:05 +0100</pubDate>
+    <lastBuildDate>Wed, 05 Oct 2016 08:12:05 +0100</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Will</title>
+        <description>&lt;p&gt;&lt;em&gt;Vocals, Guitar &amp;amp; Bass&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Will is a supremely talented vocalist and bass player who can also turn his hand to the acoustic guitar. He studied at the University of Hull and has a degree in Musical Theatre which is evident in his performance. Will has been a performing musician for over 10 years and has racked up countless performances all over the UK.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 03 Oct 2016 21:08:10 +0100</pubDate>
+        <link>http://yourdomain.com/theband/2016/10/03/will.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/theband/2016/10/03/will.html</guid>
+        
+        
+        <category>TheBand</category>
+        
+      </item>
+    
+      <item>
+        <title>Reuben</title>
+        <description>&lt;p&gt;&lt;em&gt;Vocals, Keys &amp;amp; Percussion&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Reuben is a vastly talented and experienced musician. Degree qualified, Reuben has performed primarily as a drummer in an array of musical genres at the very highest level. A talented vocal harmoniser he will be predominantly tinkling the ivories with Gypsy Moths as well as head percussionist due to his excellent versatility.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 03 Oct 2016 21:08:10 +0100</pubDate>
+        <link>http://yourdomain.com/theband/2016/10/03/reuben.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/theband/2016/10/03/reuben.html</guid>
+        
+        
+        <category>TheBand</category>
+        
+      </item>
+    
+      <item>
+        <title>Joe</title>
+        <description>&lt;p&gt;&lt;em&gt;Vocals, Guitar, Bass, Percussion&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;A true seasoned musician, Joe brings vocal qualities we mere mortals can only dream of. He’s also not half bad on the guitar and has been playing since the age of 11. Having performed in several successful function/cover bands over the last 15 years, Joe is now taking flight as the main man, guitarist and vocalist in Gypsy Moths.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 03 Oct 2016 21:08:10 +0100</pubDate>
+        <link>http://yourdomain.com/theband/2016/10/03/joe.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/theband/2016/10/03/joe.html</guid>
+        
+        
+        <category>TheBand</category>
+        
+      </item>
+    
+      <item>
+        <title>Bucaneer</title>
+        <description>&lt;p&gt;&lt;em&gt;Vocals, Guitar, Bass, Percussion&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 03 Oct 2016 19:00:00 +0100</pubDate>
+        <link>http://yourdomain.com/liveshow/2016/10/03/somewhee.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/liveshow/2016/10/03/somewhee.html</guid>
+        
+        
+        <category>liveShow</category>
+        
+      </item>
+    
+      <item>
+        <title>Bucaneer</title>
+        <description>&lt;p&gt;&lt;em&gt;Vocals, Guitar, Bass, Percussion&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 03 Oct 2016 19:00:00 +0100</pubDate>
+        <link>http://yourdomain.com/liveshow/2016/10/03/bucabeer.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/liveshow/2016/10/03/bucabeer.html</guid>
+        
+        
+        <category>liveShow</category>
+        
+      </item>
+    
+  </channel>
+</rss>
